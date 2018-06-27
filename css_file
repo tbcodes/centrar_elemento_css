@@ -1,5 +1,5 @@
 /*  Cómo centrar un elemento en CSS  |  Código CSS |  style_center_css.css  */
-/*  Código HTML usado en el siguiente vídeo de Youtube: https://youtu.be/FonngK9Rz-I  */
+/*  Código CSS usado en el siguiente vídeo de Youtube: https://youtu.be/FonngK9Rz-I  */
 
 .main {
     margin: 0;
